@@ -1,6 +1,6 @@
 ## Description
 
-Backend service 
+Using Nest.js for Backend service 
 
 ## Installation
 
